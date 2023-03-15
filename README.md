@@ -4,6 +4,11 @@
 
 Full Stack web developer portfolio made with React and Tailwind.
 
+## Application
+
+![Screenshot](screenshot1.png)
+
+
 ## Questions
 
 Reach me with additional questions here:
